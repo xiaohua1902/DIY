@@ -1,0 +1,51 @@
+.t-nav{
+    background-color:#00aaff;
+    border-bottom:6px solid #ff3366
+}
+.b-a{font-size:20px;color:#fff;}
+.t-nav .nav-item:hover{background-color:#ff3366;}
+.b-a:hover{color:#fff;}
+.banner>div>div{height:390px;}
+.carousel-control-prev{
+    top:45%;left:15px;
+    width:30px;height:30px;
+    border-radius:50%;
+    opacity: 1;
+}
+.carousel-control-next{
+    top:45%;right:15px;
+    width:30px;height:30px;
+    border-radius:50%;
+    opacity: 1;
+}
+.carousel-control-prev-icon{
+    width:30px;height:30px;
+    background:url(../../image/index/banner/arrows.png) no-repeat;
+}
+.carousel-control-next-icon{
+    width:30px;height:30px;
+    background:url(../../image/index/banner/arrows.png) no-repeat -30px 0;
+}
+.banner a{}
+.aside>a>img{width:188px;height:142px;}
+.t-left{
+    background:#fff url(../../image/index/banner/left_top.jpg) no-repeat 20px 20px;
+    padding-left:80px;
+}
+.t-left>div>span{font-size:20px;}
+.t-left>div>p{font-size:12px;}
+.dr>div>div{height:348px;}
+.gd{
+    background:#f9f9f9 url(../../image/index/da/hot_bj.gif) no-repeat left -1200px;
+    font-size:20px;
+    border-bottom:1px solid #ddcfbe
+}
+.zj img{width:160px;height:190px;}
+.newtops li a{
+    background:url(../../image/index/da/dot2.gif) no-repeat 5px 4px;
+    font-size:0.8rem;
+    padding-left:18px;
+
+}
+.tj>div>div{height:574px;}
+.live{height:629px;}
