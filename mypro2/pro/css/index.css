@@ -26,6 +26,18 @@
     width:30px;height:30px;
     background:url(../../image/index/banner/arrows.png) no-repeat -30px 0;
 }
+/*轮播指示符样式*/
+.carousel-indicators li{
+    width:22px;height:22px;
+    background: url(../../image/index/banner/bullets.png) no-repeat;
+    margin-right:3px;
+}
+.carousel-indicators .active{
+    background-position:0 -22px;
+}
+.carousel-indicators{
+    bottom:-40px;
+}
 .banner a{}
 .aside>a>img{width:188px;height:142px;}
 .t-left{
@@ -38,9 +50,11 @@
 .gd{
     background:#f9f9f9 url(../../image/index/da/hot_bj.gif) no-repeat left -1200px;
     font-size:20px;
+    line-height:45px;
     border-bottom:1px solid #ddcfbe
 }
 .zj img{width:160px;height:190px;}
+
 .newtops li a{
     background:url(../../image/index/da/dot2.gif) no-repeat 5px 4px;
     font-size:0.8rem;
