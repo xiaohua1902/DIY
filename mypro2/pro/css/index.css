@@ -47,7 +47,7 @@
 .t-left>div>span{font-size:20px;}
 .t-left>div>p{font-size:12px;}
 .dr>div>div{height:348px;}
-.gd{
+.mo{
     background:#f9f9f9 url(../../image/index/da/hot_bj.gif) no-repeat left -1200px;
     font-size:20px;
     line-height:45px;
@@ -60,6 +60,12 @@
     font-size:0.8rem;
     padding-left:18px;
 
+}
+.list-item{
+    height: 38px;
+    line-height: 38px;
+    padding:0px;
+    border-bottom: 1px solid #a5d886;
 }
 .tj>div>div{height:574px;}
 .live{height:629px;}
