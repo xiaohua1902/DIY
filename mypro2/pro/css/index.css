@@ -69,3 +69,28 @@
 }
 .tj>div>div{height:574px;}
 .live{height:629px;}
+.t1{border:1px solid #ddcfbe}
+.t_h{
+    width:172px;
+    height:150px;
+}
+.t1_2{
+    height:50px;
+}
+.t1_1{
+    background-image:url(../../image/index/tuijian/201904-22-7C656865E8DC0A7B45190AC4AC920AAD-290.jpg);
+    overflow:hidden;
+}
+.t2_1{
+    background-image:url(../../image/index/tuijian/201904-22-8B6B348CE078810B6A1291A831E58061-290.jpg);
+    overflow:hidden;
+}
+.t3_1{
+    background-image:url(../../image/index/tuijian/201904-22-0E9B4D438A913C4989F1FB35A1A5B9D6-290.jpg);
+    overflow:hidden;
+}
+.t4_1{
+    background-image:url(../../image/index/tuijian/201904-22-D33AA8BF86F4F8811004F9C86F1ED421-290.jpg);
+    overflow:hidden;
+}
+
