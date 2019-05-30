@@ -76,6 +76,7 @@
 }
 .t1_2{
     height:50px;
+    margin:5px;
 }
 .t1_1{
     background-image:url(../../image/index/tuijian/201904-22-7C656865E8DC0A7B45190AC4AC920AAD-290.jpg);
@@ -86,11 +87,62 @@
     overflow:hidden;
 }
 .t3_1{
-    background-image:url(../../image/index/tuijian/201904-22-0E9B4D438A913C4989F1FB35A1A5B9D6-290.jpg);
+    background:url(../../image/index/tuijian/201904-22-0E9B4D438A913C4989F1FB35A1A5B9D6-290.jpg);
     overflow:hidden;
 }
 .t4_1{
-    background-image:url(../../image/index/tuijian/201904-22-D33AA8BF86F4F8811004F9C86F1ED421-290.jpg);
+    background:url(../../image/index/tuijian/201904-22-D33AA8BF86F4F8811004F9C86F1ED421-290.jpg);
+    overflow:hidden;
+}
+.t5_1{
+    background:url(../../image/index/tuijian/201904-22-6DA6C7984C597028D31DD48203C7071A-290.jpg);
+    overflow:hidden;
+}
+.t6_1{
+    background:url(../../image/index/tuijian/201904-22-6DA6C7984C597028D31DD48203C7071A-290.jpg);
+    overflow:hidden;
+}
+.t7_1{
+    background:url(../../image/index/tuijian/201904-22-6DA6C7984C597028D31DD48203C7071A-290.jpg);
+    overflow:hidden;
+}
+.t8_1{
+    background:url(../../image/index/tuijian/201904-22-6DA6C7984C597028D31DD48203C7071A-290.jpg);
     overflow:hidden;
 }
 
+.lh{
+    height:233px;
+}
+.lo{
+    background:url(../../image/index/live/880A73DC244BBCF9CFB78F4A108DA4CB.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.lt{
+    background:url(../../image/index/live/26AF21BFF9D789AC015AC75C3352AFC4.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.lth{
+    background:url(../../image/index/live/1365AA5B9472025D689894C6725BA24E.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.lf{
+    background:url(../../image/index/live/5CBC1F450AB4BA1D38D8F683.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.lfi{
+    background:url(../../image/index/live/72026082C6919210B96F869D6000EBF1.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.ls{
+    background:url(../../image/index/live/598A70AB3E4A90D3C60A931DB575A2B7.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.lse{
+    background:url(../../image/index/live/1567A078B3C6FCE1889218D44FE76CC1.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.le{
+    background:url(../../image/index/live/5CB87D460AB4BA1B588AA89A.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
