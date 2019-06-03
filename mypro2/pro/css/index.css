@@ -76,7 +76,7 @@
     border-bottom: 1px solid #a5d886;
 }
 .tj>div>div{height:574px;}
-.live,.old{height:629px;}
+/*.live,.old{height:629px;}*/
 .t1{
     border:1px solid #ddcfbe;
     background-color:#fff;
@@ -190,5 +190,69 @@
 }
 .oe{
     background:url(../../image/index/old/o8.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.ho{
+    background:url(../../image/index/home/h1.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.ht{
+    background:url(../../image/index/home/h2.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.hth{
+    background:url(../../image/index/home/h3.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.hf{
+    background:url(../../image/index/home/h4.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.hfi{
+    background:url(../../image/index/home/h5.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.hs{
+    background:url(../../image/index/home/h6.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.hse{
+    background:url(../../image/index/home/h7.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.he{
+    background:url(../../image/index/home/h8.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.do{
+    background:url(../../image/index/deco/d1.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.dt{
+    background:url(../../image/index/deco/d2.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.dth{
+    background:url(../../image/index/deco/d3.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.df{
+    background:url(../../image/index/deco/d4.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.dfi{
+    background:url(../../image/index/deco/d5.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.ds{
+    background:url(../../image/index/deco/d6.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.dse{
+    background:url(../../image/index/deco/d7.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.de{
+    background:url(../../image/index/deco/d8.jpg-taobao) no-repeat left top;
     background-size:100%;
 }
