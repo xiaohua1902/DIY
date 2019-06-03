@@ -54,13 +54,21 @@
     border-bottom:1px solid #ddcfbe
 }
 .zj img{width:160px;height:190px;}
-
 .newtops li a{
     background:url(../../image/index/da/dot2.gif) no-repeat 5px 4px;
     font-size:0.8rem;
     padding-left:18px;
-
 }
+.have{
+    padding:20px;height:235px;
+}
+.have a{display:block;}
+.have img{
+    float:left;
+    width:200px;
+    margin-right:5px;
+}
+.have div{line-height:35px}
 .list-item{
     height: 38px;
     line-height: 38px;
@@ -68,8 +76,11 @@
     border-bottom: 1px solid #a5d886;
 }
 .tj>div>div{height:574px;}
-.live{height:629px;}
-.t1{border:1px solid #ddcfbe}
+.live,.old{height:629px;}
+.t1{
+    border:1px solid #ddcfbe;
+    background-color:#fff;
+}
 .t_h{
     width:172px;
     height:150px;
@@ -77,7 +88,9 @@
 .t1_2{
     height:50px;
     margin:5px;
+
 }
+
 .t1_1{
     background-image:url(../../image/index/tuijian/201904-22-7C656865E8DC0A7B45190AC4AC920AAD-290.jpg);
     overflow:hidden;
@@ -85,6 +98,7 @@
 .t2_1{
     background-image:url(../../image/index/tuijian/201904-22-8B6B348CE078810B6A1291A831E58061-290.jpg);
     overflow:hidden;
+
 }
 .t3_1{
     background:url(../../image/index/tuijian/201904-22-0E9B4D438A913C4989F1FB35A1A5B9D6-290.jpg);
@@ -144,5 +158,37 @@
 }
 .le{
     background:url(../../image/index/live/5CB87D460AB4BA1B588AA89A.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.oo{
+    background:url(../../image/index/old/o1.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.ot{
+    background:url(../../image/index/old/o2.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.oth{
+    background:url(../../image/index/old/o3.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.of{
+    background:url(../../image/index/old/o4.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.ofi{
+    background:url(../../image/index/old/o5.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.os{
+    background:url(../../image/index/old/o6.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.ose{
+    background:url(../../image/index/old/o7.jpg-taobao) no-repeat left top;
+    background-size:100%;
+}
+.oe{
+    background:url(../../image/index/old/o8.jpg-taobao) no-repeat left top;
     background-size:100%;
 }
