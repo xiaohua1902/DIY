@@ -1,2 +1,15 @@
-.sre{width:400px;height:40px}
-.bt{width:100px;height:40px}
+.sea{
+    width:400px;height:40px;
+    outline:none;
+    border:1px solid #ccc;
+    line-height:40px;
+    font-size:16px;
+}
+.bt{
+    width:100px;height:40px;
+    line-height:40px;
+    color:#fff;
+    font-size:16px;
+    background:#99d3b5;
+    border:1px solid #99d3b5;
+}
