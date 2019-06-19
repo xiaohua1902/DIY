@@ -13,3 +13,14 @@ list-style-type:none;
 box-sizing:border-box;
 }
 a:hover{color:#ee398a}
+.t1{
+    border:1px solid #ddcfbe;
+    background-color:#fff;
+}
+.t1_2{
+    height:50px;
+    margin:5px;
+}
+.lh{
+    height:233px;
+}
