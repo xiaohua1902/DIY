@@ -1,11 +1,11 @@
 .t-nav{
-    background-color:#00aaff;
-    border-bottom:6px solid #ff3366;
+    background-color:#9a604d;
+    border-bottom:6px solid #bdb1a3;
 }
 .b-a{font-size:20px;color:#fff;}
-.t-nav .nav-item:hover{background-color:#ff3366;}
+.t-nav .nav-item:hover{background-color:#bdb1a3;}
 .b-a:hover{color:#fff;}
-.t-nav .nav-item.active{background-color:#ff3366}
+.t-nav .nav-item.active{background-color:#bdb1a3}
 .livebar{
     border-bottom:1px solid #ccc
 }
@@ -15,10 +15,11 @@
     height:42px;
 }
 .all{
-    color:#ff3366;
+    color:#bdb1a3;
     font-size:22px;
 }
 .all:hover{
+    color:#bdb1a3;
     text-decoration:underline;
 }
 .livelink{
