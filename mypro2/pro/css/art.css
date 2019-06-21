@@ -1,11 +1,11 @@
 .t-nav{
-    background-color:#016b93;
-    border-bottom:6px solid #fba72d;
+    background-color:#2c415d;
+    border-bottom:6px solid #18dcff;
 }
 .b-a{font-size:20px;color:#fff;}
-.t-nav .nav-item:hover{background-color:#fba72d;}
+.t-nav .nav-item:hover{background-color:#18dcff;}
 .b-a:hover{color:#fff;}
-.t-nav .nav-item.active{background-color:#fba72d}
+.t-nav .nav-item.active{background-color:#18dcff}
 .livebar{
     border-bottom:1px solid #ccc
 }
@@ -15,11 +15,11 @@
     height:42px;
 }
 .all{
-    color:#fba72d;
+    color:#18dcff;
     font-size:22px;
 }
 .all:hover{
-    color:#fba72d;
+    color:#18dcff;
     text-decoration:underline;
 }
 .livelink{
