@@ -38,7 +38,6 @@
 .carousel-indicators{
     bottom:-40px;
 }
-.banner a{}
 .aside>a>img{width:188px;height:142px;}
 .t-left{
     background:#fff url(../../image/index/banner/left_top.jpg) no-repeat 20px 20px;
@@ -53,7 +52,21 @@
     line-height:45px;
     border-bottom:1px solid #ddcfbe
 }
-.zj img{width:160px;height:190px;}
+.expert a{
+    display: block;
+    width: 165px;
+    height: 230px;
+    margin-left: 11px;
+    margin-top: 9px;
+    float: left;
+    background-color: #444;
+    text-align: center;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    line-height: 35px;
+}
+.expert a img{width:165px;height:190px;}
 .newtops li a{
     background:url(../../image/index/da/dot2.gif) no-repeat 5px 4px;
     font-size:0.8rem;
@@ -89,297 +102,12 @@
     height:50px;
     margin:5px;
 }
-
-.t1_1{
-    background-image:url(../../image/index/tuijian/201904-22-7C656865E8DC0A7B45190AC4AC920AAD-290.jpg);
-    overflow:hidden;
-}
-.t2_1{
-    background-image:url(../../image/index/tuijian/201904-22-8B6B348CE078810B6A1291A831E58061-290.jpg);
-    overflow:hidden;
-
-}
-.t3_1{
-    background:url(../../image/index/tuijian/201904-22-0E9B4D438A913C4989F1FB35A1A5B9D6-290.jpg);
-    overflow:hidden;
-}
-.t4_1{
-    background:url(../../image/index/tuijian/201904-22-D33AA8BF86F4F8811004F9C86F1ED421-290.jpg);
-    overflow:hidden;
-}
-.t5_1{
-    background:url(../../image/index/tuijian/201904-22-6DA6C7984C597028D31DD48203C7071A-290.jpg);
-    overflow:hidden;
-}
-.t6_1{
-    background:url(../../image/index/tuijian/201904-22-6DA6C7984C597028D31DD48203C7071A-290.jpg);
-    overflow:hidden;
-}
-.t7_1{
-    background:url(../../image/index/tuijian/201904-22-6DA6C7984C597028D31DD48203C7071A-290.jpg);
-    overflow:hidden;
-}
-.t8_1{
-    background:url(../../image/index/tuijian/201904-22-6DA6C7984C597028D31DD48203C7071A-290.jpg);
-    overflow:hidden;
-}
-
-.lh{
-    height:233px;
-}
-.lo{
-    background:url(../../image/index/live/880A73DC244BBCF9CFB78F4A108DA4CB.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.lt{
-    background:url(../../image/index/live/26AF21BFF9D789AC015AC75C3352AFC4.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.lth{
-    background:url(../../image/index/live/1365AA5B9472025D689894C6725BA24E.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.lf{
-    background:url(../../image/index/live/5CBC1F450AB4BA1D38D8F683.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.lfi{
-    background:url(../../image/index/live/72026082C6919210B96F869D6000EBF1.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ls{
-    background:url(../../image/index/live/598A70AB3E4A90D3C60A931DB575A2B7.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.lse{
-    background:url(../../image/index/live/1567A078B3C6FCE1889218D44FE76CC1.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.le{
-    background:url(../../image/index/live/5CB87D460AB4BA1B588AA89A.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.oo{
-    background:url(../../image/index/old/o1.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ot{
-    background:url(../../image/index/old/o2.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.oth{
-    background:url(../../image/index/old/o3.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.of{
-    background:url(../../image/index/old/o4.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ofi{
-    background:url(../../image/index/old/o5.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.os{
-    background:url(../../image/index/old/o6.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ose{
-    background:url(../../image/index/old/o7.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.oe{
-    background:url(../../image/index/old/o8.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ho{
-    background:url(../../image/index/home/h1.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ht{
-    background:url(../../image/index/home/h2.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.hth{
-    background:url(../../image/index/home/h3.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.hf{
-    background:url(../../image/index/home/h4.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.hfi{
-    background:url(../../image/index/home/h5.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.hs{
-    background:url(../../image/index/home/h6.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.hse{
-    background:url(../../image/index/home/h7.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.he{
-    background:url(../../image/index/home/h8.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.do{
-    background:url(../../image/index/deco/d1.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.dt{
-    background:url(../../image/index/deco/d2.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.dth{
-    background:url(../../image/index/deco/d3.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.df{
-    background:url(../../image/index/deco/d4.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.dfi{
-    background:url(../../image/index/deco/d5.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ds{
-    background:url(../../image/index/deco/d6.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.dse{
-    background:url(../../image/index/deco/d7.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.de{
-    background:url(../../image/index/deco/d8.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.co{
-    background:url(../../image/index/china/c1.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ct{
-    background:url(../../image/index/china/c2.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cth{
-    background:url(../../image/index/china/c3.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cf{
-    background:url(../../image/index/china/c4.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cfi{
-    background:url(../../image/index/china/c5.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cs{
-    background:url(../../image/index/china/c6.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cse{
-    background:url(../../image/index/china/c7.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ce{
-    background:url(../../image/index/china/c8.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.co{
-    background:url(../../image/index/china/c1.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ct{
-    background:url(../../image/index/china/c2.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cth{
-    background:url(../../image/index/china/c3.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cf{
-    background:url(../../image/index/china/c4.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cfi{
-    background:url(../../image/index/china/c5.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cs{
-    background:url(../../image/index/china/c6.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.cse{
-    background:url(../../image/index/china/c7.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ce{
-    background:url(../../image/index/china/c8.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.so{
-    background:url(../../image/index/scu/s1.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.st{
-    background:url(../../image/index/scu/s2.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.sth{
-    background:url(../../image/index/scu/s3.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.sf{
-    background:url(../../image/index/scu/s4.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.sfi{
-    background:url(../../image/index/scu/s5.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ss{
-    background:url(../../image/index/scu/s6.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.sse{
-    background:url(../../image/index/scu/s7.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.se{
-    background:url(../../image/index/scu/s8.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.mon {
-    background: url(../../image/index/make/m1.jpg-taobao) no-repeat left top;
-    background-size: 100%;
-}
-.mt{ 
-    background:url(../../image/index/make/m2.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.mth{
-    background:url(../../image/index/make/m3.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.mf{
-    background:url(../../image/index/make/m4.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.mfi{
-    background:url(../../image/index/make/m5.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.ms{
-    background:url(../../image/index/make/m6.gif-taobao) no-repeat left top;
-    background-size:100%;
-}
-.mse{
-    background:url(../../image/index/make/m7.jpg-taobao) no-repeat left top;
-    background-size:100%;
-}
-.me{
-    background:url(../../image/index/make/m8.jpg-taobao) no-repeat left top;
-    background-size:100%;
+.flink{
+    border:1px solid #c4c4c4;
+}
+.qq{
+    text-align: right;
+    line-height: 40px;
+    height: 40px;
+    font-size: 17px;
 }
